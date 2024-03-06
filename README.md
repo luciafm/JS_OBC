@@ -1,5 +1,5 @@
 # Javascript
-*Esse repositório serve para colocar os códigos feitos nas aulas de Javascript através da plataforma OneBitCode.
+* Esse repositório serve para colocar os códigos feitos nas aulas de Javascript através da plataforma OneBitCode.
 
 # Exercício 01 e 02:
 * Aprendi a como coletar dados através do "prompt" e exibir na tela usando o "alert".
